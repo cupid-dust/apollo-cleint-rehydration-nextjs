@@ -1,5 +1,5 @@
 Apollo Client Cache Rehydration in Next.js
-Next.js app code for this blog post:
+Next.js app code for this blog post: https://medium.com/@ahsan-ali-mansoor/apollo-client-cache-rehydration-in-next-js-d1d7c693699e
 
 This repo demonstrates how to:
 
